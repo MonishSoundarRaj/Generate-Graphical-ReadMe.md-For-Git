@@ -1,0 +1,16 @@
+{
+  "name": "generate-graphical-readme.md-for-git",
+  "version": "1.0.0",
+  "description": "A application to generate readme.md files for github profile to showcase everything colorful, graphical, and more attractive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monish Soundar Raj",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
